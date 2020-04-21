@@ -4,3 +4,14 @@
 
 layout: home
 ---
+![This is me woo](/assets/logo.png)
+
+### <font color='CornflowerBlue'>About</font>
+
+aewghaweighwaegwaeg
+
+## <font color='DodgerBlue'>About</font>
+Yes
+
+# <font color='DodgerBlue'>About</font>
+o
