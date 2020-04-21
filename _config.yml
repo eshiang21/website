@@ -22,7 +22,7 @@ title: Eddie Shiang
 email: eeddieshiangg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aspiring data wizard. Sometimes reading about Naive Bayes classifiers, but mostly just being naive.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/es_website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eshiang21
 linkedin_username: eddie-shiang
