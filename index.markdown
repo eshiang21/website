@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-![This is me yay](/assets/logo.png) 
+![This is me yay](/assets/index_pic.png) 
 
 
 <!---<div style="text-align: center"><img src="/assets/logo.png" width="500" /></div>-->
