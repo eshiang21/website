@@ -4,14 +4,19 @@
 
 layout: home
 ---
-![This is me woo](/assets/logo.png)
 
-### <font color='CornflowerBlue'>About</font>
 
-aewghaweighwaegwaeg
+<!--- ![This is me yay](/assets/logo.png) -->
 
-## <font color='DodgerBlue'>About</font>
-Yes
 
-# <font color='DodgerBlue'>About</font>
-o
+<div style="text-align: center"><img src="/assets/logo.png" width="500" /></div>
+<br>
+I am an incoming first-year masters student at [NYU Center for Data Science](https://cds.nyu.edu/), which is part of [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/). 
+<br><br>
+Currently, I am wrapping up my B.S. in Statistics from UCLA this June. Woo!
+
+* * *
+# <font color='2a7ae2'>Projects</font>
+
+* * *
+# <font color='2a7ae2'>Classes</font>
