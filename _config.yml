@@ -21,7 +21,7 @@
 title: Eddie Shiang
 email: eeddieshiangg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Aspiring data wizard. Sometimes reading about Naive Bayes classifiers, but mostly just being naive.
+  Aspiring data wizard. Sometimes reading up on Naive Bayes classifiers, but mostly just being naive.
 baseurl: "/es_website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eshiang21
