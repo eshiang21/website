@@ -8,16 +8,57 @@ layout: home
 
 ![This is me yay](/assets/index_pic.png) 
 
+----
+## <font color='2a7ae2'>About</font>
+I am an incoming graduate student at [NYU Center for Data Science](https://cds.nyu.edu/) of [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/). 
 
-<!---<div style="text-align: center"><img src="/assets/logo.png" width="500" /></div>-->
-
-<br>
-I am an incoming first-year masters student at [NYU Center for Data Science](https://cds.nyu.edu/), which is part of [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/). 
-<br><br>
 Currently, I am wrapping up my B.S. in Statistics from UCLA this June. Woo!
+<br><br><br>
 
-* * *
-# <font color='2a7ae2'>Projects</font>
+----
+## <font color='2a7ae2'>Projects</font>
+asgeaegwaegwa aewgewa ggaew gewa aegwaewg
+<br><br><br>
 
-* * *
-# <font color='2a7ae2'>Classes</font>
+----
+## <font color='2a7ae2'>Coursework</font>
+
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+</table>
+
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+table {
+  border-spacing: 15px;
+}
+</style>
+</head>
+<body>
+
+
