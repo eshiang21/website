@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: right;" width="300" height="287" src="/assets/prof_pic_new.png">
+<img style="float: right;" width="300" height="287" src="/es_website/assets/prof_pic_new.png">
 ---
 ## <font color='2a7ae2'>About</font>
 I am a masters student at the [Data Science Institute](https://www.datascience.columbia.edu/) of [Columbia University](https://www.columbia.edu/). I completed my bachelor's degree in statistics from [University of California, Los Angeles](https://www.ucla.edu/). 
@@ -48,11 +48,11 @@ I am actively seeking summer 2021 internship opportunities. My interests lie wit
 ----
 ## <font color='2a7ae2'>Professional Experience</font>
 
-### **Data Science Intern** (<a href="https://www.fandango.com"><img width="20" height="20" src="/assets/fandango_logo.jpg"></a> Fandango | Summer 2020) 
+### **Data Science Intern** (<a href="https://www.fandango.com"><img width="20" height="20" src="/es_website/assets/fandango_logo.jpg"></a> Fandango | Summer 2020) 
 *My projects included theater reopening demographic analysis, trailing twelve months requests, and streaming platform dashboard development.* 
 <br><br>
 
-### **Data Science Intern** (<a href="https://www.tatari.tv"><img width="20" height="20" src="/assets/tatari_logo.jpg"></a> Tatari | Summer 2019) 
+### **Data Science Intern** (<a href="https://www.tatari.tv"><img width="20" height="20" src="/es_website/assets/tatari_logo.jpg"></a> Tatari | Summer 2019) 
 *My projects included client campaign review automation and competitive analysis exploration.*
 
 [[Reflection](https://moonwalkk.wordpress.com/2019/10/17/im-back-whats-been-going-on/)]
