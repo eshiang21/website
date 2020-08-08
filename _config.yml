@@ -22,8 +22,8 @@ title: Eddie Shiang
 email: eeddieshiangg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage.
-baseurl: "/es_website" # the subpath of your site, e.g. /blog PUT es_website WHEN WANNA RUN -> GIT ADD ., GIT COMMIT -M "", GIT PUSH ORIGIN GH-PAGES
-url: "http://eddieshiang.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog PUT es_website WHEN WANNA RUN -> GIT ADD ., GIT COMMIT -M "", GIT PUSH ORIGIN GH-PAGES
+url: "es_website" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eshiang21
 linkedin_username: eddie-shiang
 instagram_username: eddieshhh
