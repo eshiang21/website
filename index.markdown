@@ -5,6 +5,8 @@
 layout: home
 ---
 
+*Last updated 9/1/2020.*
+
 <img style="float: right;" width="300" height="287" src="/es_website/assets/prof_pic_new.png">
 ---
 ## <font color='2a7ae2'>About</font>
@@ -47,12 +49,16 @@ I am actively seeking summer 2021 internship opportunities. My interests lie wit
 ----
 ## <font color='2a7ae2'>Professional Experience</font>
 
+### **Data Science Intern** (<a href="https://www.disney.com/"><img width="20" height="20" src="/es_website/assets/disney_logo.jpg"></a> Disney | Fall 2020) 
+*Current internship - stay tuned!* 
+<br><br>
+
 ### **Data Science Intern** (<a href="https://www.fandango.com"><img width="20" height="20" src="/es_website/assets/fandango_logo.jpg"></a> Fandango | Summer 2020) 
-*My projects included theater reopening demographic analysis, trailing twelve months requests, streaming platform dashboard development, and customer retention exploration.* 
+*My projects centered on reopening theaters demographic analysis, finance team data requests, streaming dashboard development, and email campaign A/B testing.* 
 <br><br>
 
 ### **Data Science Intern** (<a href="https://www.tatari.tv"><img width="20" height="20" src="/es_website/assets/tatari_logo.jpg"></a> Tatari | Summer 2019) 
-*My projects included client campaign review automation, external data integration, and competitive analysis.*
+*My projects centered on client campaign review automation, external API data integration, and competitive analysis exploration.*
 <br><br>
 
 
