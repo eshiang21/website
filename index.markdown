@@ -7,7 +7,7 @@ layout: home
 
 *Last updated 1/27/2021.*
 
-<img style="float: right;" width="290" height="300" src="/es_website/assets/prof_pic_final.png">
+<img style="float: right;" width="300" height="290" src="/es_website/assets/prof_pic_final.png">
 ---
 ## <font color='2a7ae2'>About</font>
 I am a computer science master's student at [Columbia University](https://www.columbia.edu/). Previously, I completed my bachelor's degree in statistics from [University of California, Los Angeles](https://www.ucla.edu/). 
